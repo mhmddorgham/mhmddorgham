@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1669923371~exp=1669923971~hmac=56be9550db195e308ad5e1cb51d7cf41ab052675aeef2768f52f2a20cb4afb02">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmddorgham&label=Profile%20views&color=0e75b6&style=flat" alt="mhmddorgham" /> </p>
+- 👨‍💻 **Software Engineering Student**
 
 - 🌱 I’m currently learning **React Native**
 
