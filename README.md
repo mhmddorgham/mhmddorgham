@@ -3,8 +3,6 @@
 <h3 align="center">An aspirant Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1669923371~exp=1669923971~hmac=56be9550db195e308ad5e1cb51d7cf41ab052675aeef2768f52f2a20cb4afb02">
 
-- 👨‍💻 **Software Engineering Student**
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Web Development, JavaScript, React**
@@ -26,6 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmddorgham&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhmddorgham)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmddorgham&" alt="mhmddorgham" /></p>
