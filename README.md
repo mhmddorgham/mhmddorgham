@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Full%20Stack%20Developer%20👨‍💻&width=800&height=300)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Mido</h1>
+<h1 align="center">Hi 👋, I'm Dorgham</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 
