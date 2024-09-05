@@ -1,9 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Full%20Stack%20Developer%20👨‍💻&width=800&height=300)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Dorgham</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
 
-
-- 🌱 I’m currently learning **Artificial Intelligence**
+# 👋 Hello, I'm Mohamed!
+I am a dedicated Software Developer, Engineer, and Designer with extensive experience in building and architecting comprehensive web applications 🚀. My expertise spans both frontend and backend development, as well as developing Machine Learning (ML) and Deep Learning (DL) models, enabling me to deliver high-performance, scalable systems and AI-powered solutions 💡. At work, I thrive on creating efficient and reliable web products, and as a freelance full stack developer, I specialize in crafting custom web solutions tailored to my clients' unique needs 🛠️. In my personal time, I'm passionate about building and sharing projects designed as tutorials for others to learn from and develop their own applications 🤖. Join me in driving innovation and building the future of web and AI!
 
 - 💬 Ask me about **Web Development, JavaScript, React**
 
@@ -21,4 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmddorgham&show_icons=true&locale=en&layout=compact&langs_count=9" alt="mhmddorgham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmddorgham&" alt="mhmddorgham" /></p>
-
