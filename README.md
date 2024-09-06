@@ -13,7 +13,7 @@ I am a dedicated Software Developer, Engineer, and Designer with extensive exper
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - **Other Tools:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 🚀 Projects Section:
+## 🚀 Top Projects:
 
 ### 🤖 Hand Movement Classification using Machine Learning and Deep Learning
 - **📝 Description:** Classifying hand movements based on Electromyography (EMG) signals using both machine learning (ML) and deep learning (DL) techniques.
