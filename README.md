@@ -13,6 +13,31 @@ I am a dedicated Software Developer, Engineer, and Designer with extensive exper
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - **Other Tools:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+## 🚀 Projects Section:
+
+### 🤖 Hand Movement Classification using Machine Learning and Deep Learning
+- **📝 Description:** Classifying hand movements based on Electromyography (EMG) signals using both machine learning (ML) and deep learning (DL) techniques.
+- **🔗 [GitHub Repo](https://github.com/mhmddorgham/Hand-Movement-Classification-based-on-EMG-Signals-using-Machine-learning-and-Deep-learning)**
+
+---
+
+### 🏋️‍♂️ AI-Powered Fitness Chatbot
+- **📝 Description:** AI-powered fitness chatbot that provides personalized recommendations tailored to the user's BMI, fitness goals, preferences, and limitations.
+- **🔗 [GitHub Repo](https://github.com/mhmddorgham/FitnessBot_AI_Chatbot)**
+
+---
+
+### 🏗️ theHandover Platform
+- **📝 Description:** A full-stack web platform that connects investors with construction projects, allowing users to invest in real estate development projects and earn returns on their investments.
+- **🌐 [Live Site](https://www.thehandover.com/)**
+
+---
+
+### 💼 AI-Powered SaaS App
+- **📝 Description:** A REAL Software-as-a-Service app with AI features, a payments and credits system, using the latest tech stack.
+- **🔗 [GitHub Repo](https://github.com/mhmddorgham/imaginify-saas-app)**
+
+
 ## 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mhmddorgham&show_icons=true&locale=en&layout=compact&langs_count=9)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmddorgham)
