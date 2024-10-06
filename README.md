@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Mohamed!
 
-I am a dedicated Software Engineer with extensive experience building and architecting comprehensive web applications 🚀. My expertise spans both frontend and backend development, as well as developing Machine Learning (ML) and Deep Learning (DL) models, enabling me to deliver high-performance, scalable systems and AI-powered solutions 💡.
-At work, I thrive on creating efficient and reliable web products, and as a freelance full-stack developer, I specialize in crafting custom web solutions tailored to my clients' unique needs 🛠️. In my personal time, I'm passionate about building and sharing projects designed as tutorials for others to learn from and develop their own applications 🤖. Join me in driving innovation and building the future of the web and AI!
-
+Software Engineer specializing in Artificial Intelligence. I specialize in designing and developing scalable, high-performance web applications using modern technologies and full-stack solutions. 
+My expertise extends to architecting efficient systems that deliver seamless, user-friendly experiences. 
+With a strong background in Machine Learning (ML) and Deep Learning (DL), I develop AI-powered solutions to enhance innovation and operational efficiency. 
+My technical proficiency allows me to tackle complex problems and transform data into actionable insights, driving tangible results for businesses.
 
 ---
 
@@ -19,6 +20,7 @@ At work, I thrive on creating efficient and reliable web products, and as a free
 ⚡ Fun fact
 I enjoy creating tutorials that simplify complex AI and web development concepts, making them easy for others to learn and implement!
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmddorgham/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dorgham.vercel.app/) [![Email](https://img.shields.io/badge/Email-mhmddorgham10@gmail.com-red?style=for-the-badge)](mailto:mhmddorgham10@gmail.com)
