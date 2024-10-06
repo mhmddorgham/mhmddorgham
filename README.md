@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Mohamed!
 
-Software Engineer specializing in Artificial Intelligence. I specialize in designing and developing scalable, high-performance web applications using modern technologies and full-stack solutions. 
+I am a software engineer specializing in Artificial Intelligence. I specialize in designing and developing scalable, high-performance web applications using modern technologies and full-stack solutions. 
 My expertise extends to architecting efficient systems that deliver seamless, user-friendly experiences. 
 With a strong background in Machine Learning (ML) and Deep Learning (DL), I develop AI-powered solutions to enhance innovation and operational efficiency. 
-My technical proficiency allows me to tackle complex problems and transform data into actionable insights, driving tangible results for businesses.
 
 ---
 
