@@ -1,6 +1,24 @@
 # 👋 Hello, I'm Mohamed!
 
-I am a dedicated Software Engineer with extensive experience building and architecting comprehensive web applications 🚀. My expertise spans both frontend and backend development, as well as developing Machine Learning (ML) and Deep Learning (DL) models, enabling me to deliver high-performance, scalable systems and AI-powered solutions 💡. At work, I thrive on creating efficient and reliable web products, and as a freelance full-stack developer, I specialize in crafting custom web solutions tailored to my clients' unique needs 🛠️. In my personal time, I'm passionate about building and sharing projects designed as tutorials for others to learn from and develop their own applications 🤖. Join me in driving innovation and building the future of the web and AI!
+I am a dedicated Software Engineer with extensive experience building and architecting comprehensive web applications 🚀. My expertise spans both frontend and backend development, as well as developing Machine Learning (ML) and Deep Learning (DL) models, enabling me to deliver high-performance, scalable systems and AI-powered solutions 💡.
+At work, I thrive on creating efficient and reliable web products, and as a freelance full-stack developer, I specialize in crafting custom web solutions tailored to my clients' unique needs 🛠️. In my personal time, I'm passionate about building and sharing projects designed as tutorials for others to learn from and develop their own applications 🤖. Join me in driving innovation and building the future of the web and AI!
+
+
+---
+
+🔭 I’m currently working on building full-stack web applications that integrate AI/ML models to enable automation and intelligent decision-making systems.
+
+👯 I’m looking to collaborate on AI/ML projects focused on areas like computer vision, natural language processing (NLP), and creating scalable web solutions with AI integration.
+
+🤝 I’m looking for help with optimizing the deployment of AI models to improve efficiency, scalability, and performance in production environments.
+
+🌱 I’m currently learning advanced AI techniques, including cutting-edge machine learning frameworks, and how to deploy ML solutions effectively in the cloud.
+
+💬 Ask me about integrating AI/ML into web development, building full-stack applications with Next.js and React, and creating custom AI-driven solutions for businesses.
+
+⚡ Fun fact
+I enjoy creating tutorials that simplify complex AI and web development concepts, making them easy for others to learn and implement!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmddorgham/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dorgham.vercel.app/) [![Email](https://img.shields.io/badge/Email-mhmddorgham10@gmail.com-red?style=for-the-badge)](mailto:mhmddorgham10@gmail.com)
@@ -18,6 +36,12 @@ I am a dedicated Software Engineer with extensive experience building and archit
 ### 🤖 Hand Movement Classification using Machine Learning and Deep Learning
 - **📝 Description:** Classifying hand movements based on Electromyography (EMG) signals using both machine learning (ML) and deep learning (DL) techniques.
 - **🔗 [GitHub Repo](https://github.com/mhmddorgham/Hand-Movement-Classification-based-on-EMG-Signals-using-Machine-learning-and-Deep-learning)**
+
+---
+
+### 🛠️ AI-Driven Natural Language to SQL Converter 
+- **📝 Description:** This project simplifies database interaction by converting natural language queries into SQL, allowing non-technical users to easily access and retrieve data from a MySQL database. Using AI technologies like Langchain and OpenAI embeddings, the system ensures accurate and efficient data querying.
+- **🔗 [GitHub Repo](https://github.com/mhmddorgham/langchain-nl-to-sql)**
 
 ---
 
