@@ -4,7 +4,7 @@ I am a software engineer specializing in Artificial Intelligence. I specialize i
 My expertise extends to architecting efficient systems that deliver seamless, user-friendly experiences. 
 With a strong background in Machine Learning (ML) and Deep Learning (DL), I develop AI-powered solutions to enhance innovation and operational efficiency. 
 
----
+
 ## 💫 About Me:
 🔭 I’m currently working on building full-stack web applications that integrate AI/ML models to enable automation and intelligent decision-making systems.
 
@@ -19,7 +19,6 @@ With a strong background in Machine Learning (ML) and Deep Learning (DL), I deve
 ⚡ Fun fact
 I enjoy creating tutorials that simplify complex AI and web development concepts, making them easy for others to learn and implement!
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmddorgham/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dorgham.vercel.app/) [![Email](https://img.shields.io/badge/Email-mhmddorgham10@gmail.com-red?style=for-the-badge)](mailto:mhmddorgham10@gmail.com)
