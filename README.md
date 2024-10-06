@@ -5,7 +5,7 @@ My expertise extends to architecting efficient systems that deliver seamless, us
 With a strong background in Machine Learning (ML) and Deep Learning (DL), I develop AI-powered solutions to enhance innovation and operational efficiency. 
 
 ---
-
+## 💫 About Me:
 🔭 I’m currently working on building full-stack web applications that integrate AI/ML models to enable automation and intelligent decision-making systems.
 
 👯 I’m looking to collaborate on AI/ML projects focused on areas like computer vision, natural language processing (NLP), and creating scalable web solutions with AI integration.
@@ -65,6 +65,9 @@ I enjoy creating tutorials that simplify complex AI and web development concepts
 ---
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mhmddorgham&show_icons=true&locale=en&layout=compact&langs_count=9)
+![](https://github-readme-stats.vercel.app/api?username=mhmddorgham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmddorgham&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmddorgham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmddorgham)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
